@@ -44,7 +44,7 @@ Seven experiments were designed to test various combinations of real and synthet
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/yourusername/SynthCity_MovieRecommenderSystem.git
+git clone https://github.com/urmidedhiacmu/SynthCity_MovieRecommenderSystem.git
 cd SynthCity_MovieRecommenderSystem
 ```
 
